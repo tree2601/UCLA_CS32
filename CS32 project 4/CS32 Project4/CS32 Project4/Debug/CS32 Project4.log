@@ -1,0 +1,44 @@
+﻿  Genome.cpp
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\Genome.cpp(37,21): warning C4018:  “<”: 有符号/无符号不匹配
+  genomematchcopy.cpp
+  GenomeMatcher.cpp
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\Genome.cpp(126,24): warning C4018:  “<=”: 有符号/无符号不匹配
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\GenomeMatcher.cpp(63,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\GenomeMatcher.cpp(84,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\GenomeMatcher.cpp(144,60): warning C4018:  “<”: 有符号/无符号不匹配
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\GenomeMatcher.cpp(149,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\GenomeMatcher.cpp(158,21): warning C4018:  “<=”: 有符号/无符号不匹配
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\GenomeMatcher.cpp(170,20): warning C4018:  “>=”: 有符号/无符号不匹配
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\GenomeMatcher.cpp(188,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\GenomeMatcher.cpp(197,21): warning C4018:  “<”: 有符号/无符号不匹配
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\GenomeMatcher.cpp(211,20): warning C4018:  “<”: 有符号/无符号不匹配
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\GenomeMatcher.cpp(213,21): warning C4018:  “<”: 有符号/无符号不匹配
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\Trie.h(95,21): warning C4018:  “<”: 有符号/无符号不匹配
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\Trie.h(91): message :  在编译 类 模板 成员函数“void Trie<GenomeMatcherImpl::mypair>::find_helper(Trie<GenomeMatcherImpl::mypair>::Node *,const std::string &,const int &,bool,std::vector<ValueType,std::allocator<_Ty>> &) const”时
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\Trie.h(91): message :         with
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\Trie.h(91): message :         [
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\Trie.h(91): message :             ValueType=GenomeMatcherImpl::mypair,
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\Trie.h(91): message :             _Ty=GenomeMatcherImpl::mypair
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\Trie.h(91): message :         ]
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\Trie.h(153): message :  查看对正在编译的函数 模板 实例化“void Trie<GenomeMatcherImpl::mypair>::find_helper(Trie<GenomeMatcherImpl::mypair>::Node *,const std::string &,const int &,bool,std::vector<ValueType,std::allocator<_Ty>> &) const”的引用
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\Trie.h(153): message :         with
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\Trie.h(153): message :         [
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\Trie.h(153): message :             ValueType=GenomeMatcherImpl::mypair,
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\Trie.h(153): message :             _Ty=GenomeMatcherImpl::mypair
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\Trie.h(153): message :         ]
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\Trie.h(59): message :  在编译 类 模板 成员函数“Trie<GenomeMatcherImpl::mypair>::Trie(void)”时
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\GenomeMatcher.cpp(113): message :  查看对正在编译的函数 模板 实例化“Trie<GenomeMatcherImpl::mypair>::Trie(void)”的引用
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\GenomeMatcher.cpp(32): message :  查看对正在编译的 类 模板 实例化“Trie<GenomeMatcherImpl::mypair>”的引用
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\Trie.h(110,22): warning C4018:  “<”: 有符号/无符号不匹配
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\Trie.h(115,22): warning C4018:  “<”: 有符号/无符号不匹配
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\Trie.h(117,24): warning C4018:  “<”: 有符号/无符号不匹配
+  my_workshop.cpp
+  my_workshop2.cpp
+  testmain.cpp
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\Trie.h(136,21): warning C4018:  “<”: 有符号/无符号不匹配
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\testmain.cpp(130,22): warning C4018:  “<”: 有符号/无符号不匹配
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\testmain.cpp(139,21): warning C4018:  “>”: 有符号/无符号不匹配
+  正在生成代码...
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\testmain.cpp(193,22): warning C4018:  “<”: 有符号/无符号不匹配
+D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\testmain.cpp(193,22): warning C4018: D:\UCLA\CS 32\CS32 project 4\CS32 Project4\CS32 Project4\GenomeMatcher.cpp(75) : warning C4715: “GenomeMatcherImpl::matchTwo”: 不是所有的控件路径都返回值
+  CS32 Project4.vcxproj -> D:\UCLA\CS 32\CS32 project 4\CS32 Project4\Debug\CS32 Project4.exe
